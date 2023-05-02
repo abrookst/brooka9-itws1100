@@ -1,0 +1,5 @@
+background #300a24
+highlight text #87e033
+2nd highlight text #4464ac
+text #d8dbda
+border: #292727

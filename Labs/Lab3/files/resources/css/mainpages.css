@@ -1,0 +1,49 @@
+html{
+    color: #ffffff;
+    font-family: 'Ubuntu', sans-serif;
+    background-image: url(../images/jammy-jellyfish-wallpaper.jpg);
+}
+
+.terminalborderbox{
+    height:500px;
+    width: 600px;
+    border-radius: 11px;
+    background-color: #300a24;
+    
+}
+
+.terminalheader{
+    border-radius: 11px 11px 0px 0px;
+    background-color: #292727;
+    padding: 4px;
+    line-height: 2px;
+}
+
+.terminalcontent{
+    padding: 5px;
+}
+
+.headertext{
+    text-align: center;
+}
+
+.taskbar {
+    height: 40px;
+    padding: 5px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background: rgba(46, 49, 46, 0.5);
+}
+
+.icon{
+    width: 30px;
+    padding-right: 15px;
+}
+
+.controls{
+    float: right;
+    padding: 6px;
+    width: 30px;
+  }

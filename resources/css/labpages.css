@@ -1,0 +1,14 @@
+@font-face {
+    font-family: IBMFFamily;
+    src: url(../font/IBMFont.ttf);
+}
+
+html {
+    font-family: IBMFFamily;
+    color: #fbfbfb;
+    background-color: black;
+}
+
+a{
+    color: inherit;
+}

@@ -1,0 +1,30 @@
+rss {
+	display: block;
+	background-color: #9a9a9a;
+}
+
+item{
+	display: block;
+	background-color: #9a9a9a;
+	border: 4px solid #00009c;
+	margin: 5px;
+}
+
+title{
+	background-color: black;
+	color: white;
+	text-align: center;
+	display: block;
+}
+
+pubDate{
+	background-color: rgb(58, 65, 161);
+}
+
+description{
+	text-decoration: underline;
+}
+
+link{
+	display: none;
+}

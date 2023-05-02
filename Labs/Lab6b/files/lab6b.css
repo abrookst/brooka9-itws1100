@@ -1,0 +1,74 @@
+/*GENERAL STYLING*/
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+    font-family: IBMFFamily;
+}
+@font-face {
+    font-family: IBMFFamily;
+    src: url(../../../resources/font/IBMFont.ttf);
+}
+body{
+    background-color: #9a9a9a;
+}
+#cContent{
+    padding:20px
+}
+#flexbox{
+    display: flex;
+}
+
+
+
+/*RSS STYLING*/
+#myOutputRSS{
+    border-left: 2px solid #ff9b00;
+    border-right: 2px solid #808080;
+    margin-left: 5px;
+    height: 100vh;
+}
+#cHeaderRSS{
+    padding: 8px;
+    background-color: #ff9b00;
+    color: white;
+}
+#myOutputRSS #cContent a{
+    text-decoration: none;
+    color:#ff9b00;
+}
+#myOutputRSS #cContent{
+    color: white;
+}
+
+/*ATOM STYLING*/
+#myOutputAtom{
+    border-left: 2px solid #808080;
+    border-right: 2px solid #00009c;
+    margin-right: 5px;
+    height: 100vh;
+}
+#cHeaderAtom{
+    padding: 8px;
+    background-color: #00009c;
+    color: white;
+}
+#myOutputAtom #cContent a{
+    text-decoration: none;
+    color:#00009c;
+}
+#myOutputAtom #cContent{
+    color: black;
+}

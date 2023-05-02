@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="atom.css" ?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+	<title>My Awesome News Feed</title>
+	<updated>2002-10-02T10:00:00-05:00</updated>
+	<subtitle>Check Out These Cool Articles About Nintendo! (But this is Atom)</subtitle>
+	<id>urn:uuid:60a76c80-d399-11d9-b91C-0003939e0af6</id>
+	<link href="https://www.nintendo.com/" rel="self" />
+	<author>
+		<name>Ali Brooks</name>
+	</author>
+ 
+	<entry>
+		<title>IGN's Nintendo Direct Coverage</title>
+		<link href="https://www.ign.com/articles/nintendo-direct-reaction-2023" />
+		<updated>2002-10-02T10:00:00-05:00</updated>
+		<summary>A Strong Nintendo Direct Also Showed Why the End Is in Sight for the Switch</summary>
+		<id>urn:uuid:60a76c80-d399-11d9-b91C-0003939e0af6</id>
+	</entry>
+
+    <entry>
+		<title>A Nintendo Direct Joke Went Too Far At CSUF</title>
+		<link href="https://www.nintendolife.com/news/2023/02/random-students-nintendo-direct-joke-leads-to-increased-campus-security" />
+		<updated>2002-10-02T10:00:00-05:00</updated>
+		<summary>Professor urged to cancel class for "the good of humanity"</summary>
+		<id>urn:uuid:60a76c80-d399-11d9-b91C-0003939e0af6</id>
+	</entry>
+
+    <entry>
+		<title>Nintendo Cuts down Sales Forecast After Dissapointing Holiday Season</title>
+		<link href="https://www.cnbc.com/2023/02/07/nintendo-cuts-switch-sales-forecast-after-disappointing-holiday-season.html" />
+		<updated>2002-10-02T10:00:00-05:00</updated>
+		<summary>Nintendo said it now expects to sell 18 million Switch units for the fiscal year ending March 2023, down from a previous forecast of 19 million.</summary>
+		<id>urn:uuid:60a76c80-d399-11d9-b91C-0003939e0af6</id>
+	</entry>
+
+    <entry>
+		<title>Max From A Goofy Movie Is An Insanely Hot Lumbersexual</title>
+		<link href="https://www.buzzfeed.com/pedrofequiere/max-from-a-goofy-movie-is-a-lumbersexual" />
+		<updated>2002-10-02T10:00:00-05:00</updated>
+		<summary>We obviously all remember the main star from A Goofy Movie right?</summary>
+		<id>urn:uuid:60a76c80-d399-11d9-b91C-0003939e0af6</id>
+	</entry>
+
+    <entry>
+		<title>Japan's Nintendo Direct Had A Very Nice Surprise</title>
+		<link href="https://kotaku.com/nintendo-direct-japan-natsu-mon-boku-no-natsuyasumi-1850091855" />
+		<updated>2002-10-02T10:00:00-05:00</updated>
+		<summary>Not every game announced in one region features in the promotions for another</summary>
+		<id>urn:uuid:60a76c80-d399-11d9-b91C-0003939e0af6</id>
+	</entry>
+ 
+</feed>

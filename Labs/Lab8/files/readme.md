@@ -1,0 +1,1 @@
+I used getJSON to parse the lab file and dynamically update the lab page. Before it was the exact same but statically made, the only difference is that Lab6b is a seperate line. 

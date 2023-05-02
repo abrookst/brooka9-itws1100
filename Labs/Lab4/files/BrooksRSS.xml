@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="rss.css"?>
+<rss version="2.0">
+
+	<channel>
+		<title>My Awesome News Feed</title>
+		<pubDate>Wed, 08 Feb 2023 08:00:00 EST</pubDate>
+		<description>Check Out These Cool Articles About Nintendo (But this is RSS)!</description>
+		<link>https://www.nintendo.com/</link>
+
+
+		<item>
+			<title>IGN's Nintendo Direct Coverage</title>
+			<pubDate>Wed, 08 Feb 2023 08:00:00 EST</pubDate>
+			<description>A Strong Nintendo Direct Also Showed Why the End Is in Sight for the Switch</description>
+			<link>https://www.ign.com/articles/nintendo-direct-reaction-2023</link>
+		</item>
+
+		<item>
+			<title>A Nintendo Direct Joke Went Too Far At CSUF</title>
+			<pubDate>Wed, 08 Feb 2023 08:00:00 EST</pubDate>
+			<description>Professor urged to cancel class for "the good of humanity"</description>
+			<link>https://www.nintendolife.com/news/2023/02/random-students-nintendo-direct-joke-leads-to-increased-campus-security</link>
+		</item>
+
+		<item>
+			<title>Nintendo Cuts down Sales Forecast After Dissapointing Holiday Season</title>
+			<pubDate>Wed, 08 Feb 2023 08:00:00 EST</pubDate>
+			<description>Nintendo said it now expects to sell 18 million Switch units for the fiscal
+				year ending March 2023, down from a previous forecast of 19 million.</description>
+			<link>https://www.cnbc.com/2023/02/07/nintendo-cuts-switch-sales-forecast-after-disappointing-holiday-season.html</link>
+		</item>
+
+		<item>
+			<title>Max From A Goofy Movie Is An Insanely Hot Lumbersexual</title>
+			<pubDate>Wed, 08 Feb 2023 08:00:00 EST</pubDate>
+			<description>We obviously all remember the main star from A Goofy Movie right?</description>
+			<link>https://www.buzzfeed.com/pedrofequiere/max-from-a-goofy-movie-is-a-lumbersexual</link>
+		</item>
+
+		<item>
+			<title>Japan's Nintendo Direct Had A Very Nice Surprise</title>
+			<pubDate>Wed, 08 Feb 2023 08:00:00 EST</pubDate>
+			<description>Not every game announced in one region features in the promotions for another</description>
+			<link>https://kotaku.com/nintendo-direct-japan-natsu-mon-boku-no-natsuyasumi-1850091855</link>
+		</item>
+
+	</channel>
+
+</rss>

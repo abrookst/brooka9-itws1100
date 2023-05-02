@@ -1,0 +1,78 @@
+@font-face {
+    font-family: IBMFFamily;
+    src: url(../font/IBMFont.ttf);
+}
+
+html {
+    font-family: IBMFFamily;
+}
+
+a{
+    color:inherit;
+    text-decoration: none;
+}
+
+#header {
+    background-color: #00009c;
+    padding: 10px;
+    padding-bottom: 0;
+    height: 34px;
+}
+
+#header h3 {
+    color: #fbfbfb;
+    text-align: center;
+}
+
+.headerNavigator {
+    color: #9a9a9a;
+}
+
+.headerNavigatorSelected {
+    background-color: #9a9a9a;
+    color: #00009c;
+}
+
+#contentBox{
+    background-color: #9a9a9a;
+    height: calc(100vh - 68px - 20px - 10px - 8px);
+    display: flex;
+    width: calc(100% - 8px);
+    padding:4px;
+}
+
+.rightBox{
+    border-left: 2px solid #00009c;
+    border-right: 2px solid #00009c;
+    padding: 4px;
+    width: calc(70% - 14px);
+}
+.leftBox{
+    border-right: 2px solid #00009c;
+    padding: 4px;
+    width: calc(30% - 14px);
+    position: relative;
+}
+
+.leftBox span{
+    color:#00009c;
+    position: absolute;
+    bottom: 0;
+}
+
+#footer {
+    background-color: #00009c;
+    padding: 10px;
+    height: 34px;
+}
+
+#footer h3 {
+    color: #fbfbfb;
+    text-align: center;
+}
+.linked{margin: 0px;}
+.linked p{
+    display: inline-block;
+    text-decoration: underline;
+    margin-right: 10px;
+}
