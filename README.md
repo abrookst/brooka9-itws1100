@@ -1,4 +1,1 @@
-# ITWS1100-brooka9
-                                                                              
-                                                                              
-                                                                              
+A website I created for ITWS-1100: Intro to ITWS. 
